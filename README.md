@@ -5,7 +5,9 @@ With this project, you can predict death according to various characteristics us
 # Requirements
 
 1- Python(3.7)
+
 2- Sklearn
+
 3- Numpy, pandas
 
  
