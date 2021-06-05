@@ -10,6 +10,6 @@ With this project, you can predict death according to various characteristics us
 
 3- Numpy, pandas
 
-4- Covid19 by country dataset from this link [a link](https://www.kaggle.com/jcsantiago/covid19-by-country-with-government-response)
+4- Covid19 by country dataset from  [this link](https://www.kaggle.com/jcsantiago/covid19-by-country-with-government-response)
 
  
