@@ -56,7 +56,7 @@ svc = SVC()
 
 svc.fit(x_train,y_train)
 
-
+exp = y_test
 y_pred = svc.predict(x_test)
 
 
