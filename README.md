@@ -6,7 +6,7 @@ With this project, you can predict death according to various characteristics us
 
 1- Python(3.7)
 
-2- Sklearn
+2- Sklearn,Metrics,SVM
 
 3- Numpy, pandas
 
